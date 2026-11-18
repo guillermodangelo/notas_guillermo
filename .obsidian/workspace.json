@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "24fe4d92f0fca356",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f83d879ae3eeae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d6279c1dfc94c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Cartography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cartography"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffddf894b050b6e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af283518b6daac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1e9bb22315f636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "13b73598f50decbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "01fc1ea7f68a8a2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a56bc61fab491b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "230847886f87e5c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a2f8411a1667e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Cartography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "3e1fb680d633565a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Cartography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e6e2f5cf8448bdce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8b2f395435fddba7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "318037a16be2ea57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Cartography.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "a0d6279c1dfc94c6",
+  "lastOpenFiles": [
+    "__pycache__/hooks.cpython-312.pyc",
+    "__pycache__",
+    "mkdocs.yml",
+    "requirements.txt",
+    "hooks.py",
+    "notes/Python.md",
+    "raw/New_Notes.md",
+    "raw/Mapping Airbnb listings, part 1.md",
+    "processed/Post  LinkedIn.md",
+    "processed/Mapping Airbnb listings, part 1.md",
+    "notes/Urban_Planning.md",
+    "notes/Cartography.md",
+    "raw/Post  LinkedIn.md",
+    "notes/Remote_Sensing.md",
+    "notes/Embeddings.md",
+    "notes/Deep_Learning.md",
+    "notes/Climate_Change.md",
+    "notes/Data.md",
+    "notes/index.md",
+    "notes/log.md",
+    "notes/Agriculture.md",
+    "notes/sedUfLvsz",
+    "processed/New_Notes_2026-11-18.md"
+  ]
+}
