@@ -1,0 +1,89 @@
+/* Palette and feel adapted from guillermodangelo.com */
+
+/* Dark (default) */
+[data-md-color-scheme="slate"] {
+  --md-hue: 215;
+  --md-default-bg-color: #0d1117;
+  --md-default-fg-color: #e6edf3;
+  --md-default-fg-color--light: #8b94a3;
+  --md-default-fg-color--lighter: #5c6573;
+  --md-default-fg-color--lightest: #283040;
+  --md-code-bg-color: #151b23;
+  --md-code-fg-color: #e6edf3;
+  --md-footer-bg-color: #0a0e13;
+  --md-footer-bg-color--dark: #0a0e13;
+  --md-primary-fg-color: #0d1117;
+  --md-primary-fg-color--light: #151b23;
+  --md-primary-fg-color--dark: #0a0e13;
+  --md-primary-bg-color: #e6edf3;
+  --md-accent-fg-color: #5eead4;
+  --md-typeset-a-color: #2dd4bf;
+}
+
+[data-md-color-scheme="slate"] body {
+  background-image:
+    radial-gradient(1200px 600px at 12% -10%, rgba(45, 212, 191, 0.1), transparent 60%),
+    radial-gradient(1000px 520px at 100% 0%, rgba(56, 189, 248, 0.08), transparent 55%);
+  background-attachment: fixed;
+}
+
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+  background-color: rgba(13, 17, 23, 0.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #283040;
+}
+
+/* Light */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #14b8a6;
+  --md-primary-fg-color--light: #2dd4bf;
+  --md-primary-fg-color--dark: #0f766e;
+  --md-accent-fg-color: #0ea5e9;
+  --md-typeset-a-color: #0f766e;
+}
+
+/* Shared */
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset h1 {
+  background: linear-gradient(135deg, #2dd4bf 0%, #38bdf8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.md-typeset a {
+  border-bottom: 1px solid transparent;
+  transition: border-color 180ms cubic-bezier(0.4, 0, 0.2, 1), color 180ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.md-typeset a:hover {
+  border-bottom-color: currentColor;
+}
+
+.md-typeset code {
+  border-radius: 6px;
+}
+
+.md-typeset pre > code {
+  border-radius: 12px;
+}
+
+.md-typeset hr {
+  border-bottom-color: #283040;
+}
+
+::selection {
+  background: rgba(45, 212, 191, 0.3);
+}
